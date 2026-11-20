@@ -21,3 +21,4 @@ sub(10, 5)
 
 
 multiply(2, 5)
+multiply(10, 23)
