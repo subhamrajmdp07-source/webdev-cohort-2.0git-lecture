@@ -9,6 +9,7 @@ function sub(a, b){
 }
 
 function multiply(a, b){
+    if(a<0 || b<0) throw new Error("a and b should be positive")
     return a*b
 }
 
